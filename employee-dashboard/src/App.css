@@ -1,0 +1,25 @@
+.ant-card {
+  border-radius: 16px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+}
+
+.top-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-bottom: 20px;
+}
+
+.ag-theme-alpine {
+  border-radius: 12px;
+  overflow: hidden;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.ant-modal {
+  border-radius: 12px;
+}
+
+.ant-form-item {
+  margin-bottom: 16px;
+}
